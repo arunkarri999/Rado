@@ -1,3 +1,10 @@
-<?php
-echo "Initially created to test whether local host working or not. And its working. Started to work and forward on";
-?>
+<!DOCKTYPE html>
+<html>
+<head>
+<meta charset ="UTF-8">
+    <title>Title of the document</title>
+    </head>
+    
+    <body>
+    </body>
+</html>
