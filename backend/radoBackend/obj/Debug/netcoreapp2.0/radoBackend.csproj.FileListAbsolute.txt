@@ -1,0 +1,10 @@
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/bin/Debug/netcoreapp2.0/radoBackend.deps.json
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/bin/Debug/netcoreapp2.0/radoBackend.runtimeconfig.json
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/bin/Debug/netcoreapp2.0/radoBackend.runtimeconfig.dev.json
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/bin/Debug/netcoreapp2.0/radoBackend.dll
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/bin/Debug/netcoreapp2.0/radoBackend.pdb
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/obj/Debug/netcoreapp2.0/radoBackend.csproj.CoreCompileInputs.cache
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/obj/Debug/netcoreapp2.0/radoBackend.AssemblyInfoInputs.cache
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/obj/Debug/netcoreapp2.0/radoBackend.AssemblyInfo.cs
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/obj/Debug/netcoreapp2.0/radoBackend.dll
+/Users/sathvikkatam/Desktop/Github-C#/Rado/backend/radoBackend/obj/Debug/netcoreapp2.0/radoBackend.pdb
